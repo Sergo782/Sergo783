@@ -1,0 +1,115 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-color: #222222;
+	color:#AFAFAF;
+
+}
+    header{
+	width:960px;
+	display: flex;
+	flex-direction: row;
+	margin:auto;
+	margin-top:55px;
+}
+
+h3{
+	font-family:Courier;
+	font-size: 24pt;
+	margin-top:16px;
+	margin-bottom: 16px;
+}
+h1{
+	font-family:Courier;
+	font-size: 45pt;
+	font-weight: bold;
+	color:white;
+
+} 
+main{
+	
+
+	width: 960px;
+	margin: auto;
+	height: 330px;
+	display: flex;
+	justify-content: space-between;
+	
+}
+.th div{
+	width: 180px;
+	margin-top:90px;
+}
+.cont{
+	width: 100%;
+	height: 328px;
+
+}
+
+.content{
+	width: 960px;
+	margin: auto;
+	color:black;
+	display: flex;
+	
+}
+
+.content span{
+	font-weight: bold;
+}
+h3{
+	font-family:Courier;
+	font-size: 24pt;
+	margin-top:16px;
+	margin-bottom: 16px;
+}
+h1{
+	font-family:Courier;
+	font-size: 45pt;
+	font-weight: bold;
+	color:white;
+}
+.take_list{
+	margin-top: 75px;
+}
+.take-list-u{
+	display: flex;
+	height: 180px;
+	justify-content: space-between;
+	flex-direction: column;
+}
+
+
+.cont-form{
+	width: 100%;
+	height: 477px;
+	
+	
+	
+}
+.form{
+	width:960px;
+	height: 100%;
+	margin: auto;
+	display: flex;
+	justify-content: space-between;
+	
+}
+
+
+
+form{
+	display: flex;
+	flex-direction: column;
+}
+
+
+	
+
+
+
+form input{
+	font-family: sans-serif;
+	font-size: 14px;
+}
+
